@@ -65,7 +65,7 @@ All pages have mouse control options.
 
 The second example will show the same of above with the stereo effect. 
 
-![Image 3](./readme_pics/interior_sitero_eyes.png?raw=true "First example")
+![Image 3](./readme_pics/interior_stereo_eyes.png?raw=true "First example")
 
 The second example will show the same of above with the background [cat image](https://www.enewser.com/science/interesting-facts-about-cats/)
 
