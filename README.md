@@ -14,6 +14,7 @@
 The main purpose of this small project to achieve stepwise a final goal: ar race car. 
 In this little example i demonstrate in 3 steps an AR demonstrator for desktop only. 
 The android application is not included here. 
+Most of the content is taken/mixed from the three.js [example sources](https://threejs.org/examples/#webgl_animation_cloth)
 
 ### Built With
 One major framewrk is used to achieve the goal: three.js. 
@@ -43,6 +44,7 @@ No needs of installation.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+Simply run a server using python3's http.server on an open port, and navigate into your browser. 
 
 ```shell
 you@yourmachine$ python3 -m http.server 5000
