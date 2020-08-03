@@ -6,7 +6,9 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -14,7 +16,7 @@
 The main purpose of this small project to achieve stepwise a final goal: ar race car. 
 In this little example i demonstrate in 3 steps an AR demonstrator for desktop only. 
 The android application is not included here. 
-Most of the content is taken/mixed from the three.js [example sources](https://threejs.org/examples/#webgl_animation_cloth)
+Most of the content is taken/mixed from the three.js [example sources.](https://threejs.org/examples)
 
 ### Built With
 One major framewrk is used to achieve the goal: three.js. 
@@ -55,3 +57,31 @@ Serving HTTP on 0.0.0.0 port 5000 (http://0.0.0.0:5000/) ...
 ```
 
 ![Image 1](./readme_pics/folder_structure.png?raw=true "Folder Structure")
+
+The first example will show a single camera mode without background image.
+All pages have mouse control options. 
+
+![Image 2](./readme_pics/interior_single_eye.png?raw=true "First example")
+
+The second example will show the same of above with the stereo effect. 
+
+![Image 3](./readme_pics/interior_sitero_eyes.png?raw=true "First example")
+
+The second example will show the same of above with the background [cat image](https://www.enewser.com/science/interesting-facts-about-cats/)
+
+![Image 4](./readme_pics/interior_stereo_eyes_background.png?raw=true "Third example")
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License as the major dependencies like three.js. 
+
+<!-- CONTACT -->
+## Contact
+
+Oenay Can - onaycan@gmail.com
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [threejs](https://threejs.org/)
+* [Sketchfab](https://sketchfab.com/3d-models/cockpit-model-vr-33acf5be400740aa85d7738871231962)
