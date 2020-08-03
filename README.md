@@ -22,4 +22,34 @@ Special thanks goes to "chiefpad" of sketchfab.
 
 * [threejs](https://threejs.org/)
 * [Sketchfab](https://sketchfab.com/3d-models/cockpit-model-vr-33acf5be400740aa85d7738871231962)
-![Test Image 1](./readme_pics/sketchfab_model.png)
+
+![Image 1](./readme_pics/sketchfab_model.png?raw=true "Model Chosen")
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+You need to fetch a local copy of these first.
+
+### Prerequisites
+
+Al the necessary prerequiests are included hereby. 
+To run a simple web-server you can alternatively use miniweb, or similar.
+I prefered to use python instead, so make sure you have open ports in your machine and you know how to serve there. 
+
+### Installation
+
+No needs of installation. 
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+```shell
+you@yourmachine$ python3 -m http.server 5000
+Serving HTTP on 0.0.0.0 port 5000 (http://0.0.0.0:5000/) ...
+127.0.0.1 - - [03/Aug/2020 01:51:30] "GET / HTTP/1.1" 200 -
+..
+.
+```
+
+![Image 1](./readme_pics/folder_structure.png?raw=true "Folder Structure")
